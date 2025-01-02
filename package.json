@@ -1,0 +1,24 @@
+{
+  "name": "@krabba/client",
+  "version": "0.0.1",
+  "author": "Krabba",
+  "keywords": [
+    "openapi",
+    "typescript",
+    "client",
+    "fetch",
+    "api",
+    "http"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
