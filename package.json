@@ -11,6 +11,13 @@
     "http"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krabba/krabba-client"
+  },
+  "bugs": {
+    "url": "https://github.com/krabba/krabba-client/issues"
+  },
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
